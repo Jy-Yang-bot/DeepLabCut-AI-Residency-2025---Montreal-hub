@@ -3,5 +3,7 @@ The DeepLabCut AI Residency is a 2-day hands-on training workshop focused on aut
 
 
 This two-day workshop will take place on Wednesday, July 30, 2025, and Friday, August 1, 2025, at the Montreal Neurological Institute:
+
 📅Dates: July 30, 2025 & August 1, 2025
+
 📍Location: Bell room (next to de Grandpré Communications Centre), Montreal Neurological Instutite, 3801 University Street, Montreal, QC, H3A 2B4
