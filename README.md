@@ -42,7 +42,7 @@ This two-day workshop will take place on **Wednesday, July 30, 2025**, and **Fri
       - Try creating a DLC project with your own videos (or demo videos) and label them <br />
       - Explore GUI and Google colab <br />
 9. 4:30 p.m. - 4:40 p.m. <br />
-    - Dinner (grab-and-go) <br />
+    - Dinner (grab-and-go/networking) <br />
 <br />
 <br />
 
@@ -71,4 +71,4 @@ This two-day workshop will take place on **Wednesday, July 30, 2025**, and **Fri
       - Try analyzing your own videos (or demo videos) <br />
       - Play with DLC 3D and Model Zoo <br />
 9. 4:30 p.m. - 4:40 p.m. <br />
-    - Dinner (grab-and-go) <br />
+    - Dinner (grab-and-go/networking) <br />
