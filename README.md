@@ -44,26 +44,27 @@ This two-day workshop will take place on **Wednesday, July 30, 2025**, and **Fri
     - Explore GUI and Google colab <br />
 9. 4:30 p.m. - 4:40 p.m. <br />
   - Dinner (grab-and-go) <br />
-
+<br />
+<br />
 
 **Day 2 (August 1, 2025)** <br />
 1. 10:00 a.m. - 11:00 a.m.<br />
-  - Network and Dataset selection <br />
-  - Hyperparameters involving in the network <br />
+    - Network and Dataset selection <br />
+    - Hyperparameters involving in the network <br />
 3. 11:00 a.m. - 11:20 a.m. <br />
-  - Break <br />
+    - Break <br />
 4. 11:20 a.m. - 12:00 p.m. <br />
-  - Video analysis <br />
-  - Tools within DLC: <br />
-    - e.g. Trajectory visualization and filtering <br />
-    - Tracklet refinement (multi-animal projects) <br />
+    - Video analysis <br />
+    - Tools within DLC: <br />
+      - e.g. Trajectory visualization and filtering <br />
+      - Tracklet refinement (multi-animal projects) <br />
 5. 12:00 p.m. - 1:30 p.m. <br />
-  - Lunch break <br />
+    - Lunch break <br />
 6. 1:30 p.m. - 3:00 p.m. <br />
-  - DeepLabCut 3D <br />
-  - Model Zoo <br />
-  - Example of post-processing in DLC <br />
-  - Example of other applications/software that could be used with DLC to improve <br />
+    - DeepLabCut 3D <br />
+    - Model Zoo <br />
+    - Example of post-processing in DLC <br />
+    - Example of other applications/software that could be used with DLC to improve <br />
 7. 3:00 p.m. - 3:20 p.m. <br />
   - Break <br />
 8. 3:20 p.m. - 4:30 p.m. <br />
