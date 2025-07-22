@@ -64,7 +64,7 @@ This two-day workshop will take place on **Wednesday, July 30, 2025**, and **Fri
     - DeepLabCut 3D <br />
     - Model Zoo <br />
     - Example of post-processing in DLC <br />
-    - Example of other applications/software that could be used with DLC to improve <br />
+    - Example of other applications/software that could be used with DLC <br />
 7. 3:00 p.m. - 3:20 p.m. <br />
     - Break <br />
 8. 3:20 p.m. - 4:30 p.m. <br />
