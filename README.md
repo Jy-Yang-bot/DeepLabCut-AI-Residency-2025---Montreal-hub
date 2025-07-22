@@ -19,7 +19,6 @@ This two-day workshop will take place on **Wednesday, July 30, 2025**, and **Fri
 **Day 1 (July 30, 2025)** <br />
 1. 10:00 a.m. - 10:15 a.m.<br />
     - Introduction to the workshop and schedule<br />
-    - Kick-off greeting from DLC Dev Team!<br />
 2. 10:15 a.m. - 10:55 a.m. <br />
     - Introduction to machine learning and DeepLabCut <br />
     - Examples of automatic pose estimation applications <br />
