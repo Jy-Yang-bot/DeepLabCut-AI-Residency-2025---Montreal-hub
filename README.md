@@ -18,32 +18,32 @@ This two-day workshop will take place on **Wednesday, July 30, 2025**, and **Fri
 
 **Day 1 (July 30, 2025)** <br />
 1. 10:00 a.m. - 10:15 a.m.<br />
-  - Introduction to the workshop and schedule<br />
-  - Kick-off greeting from DLC Dev Team!<br />
+    - Introduction to the workshop and schedule<br />
+    - Kick-off greeting from DLC Dev Team!<br />
 2. 10:15 a.m. - 10:55 a.m. <br />
-  - Introduction to machine learning and DeepLabCut <br />
-  - Examples of automatic pose estimation applications <br />
+    - Introduction to machine learning and DeepLabCut <br />
+    - Examples of automatic pose estimation applications <br />
 3. 10:55 a.m. - 11:10 a.m. <br />
-  - Break <br />
+    - Break <br />
 4. 11:10 a.m. - 12:00 p.m. <br />
-  - Installation guide for DeepLabCut <br />
-  - **Open work session** <br />
-    - Try install DeepLabCut on your own device<br />
-    - Q&A if needed<br />
+    - Installation guide for DeepLabCut <br />
+    - **Open work session** <br />
+      - Try install DeepLabCut on your own device<br />
+      - Q&A if needed<br />
 5. 12:00 p.m. - 1:30 p.m. <br />
-  - Lunch break <br />
+    - Lunch break <br />
 6. 1:30 p.m. - 3:00 p.m. <br />
-  - Project creation <br />
-  - Labeling <br />
-  - The use of Graphic User Interface (GUI) and Google colab <br />
+    - Project creation <br />
+    - Labeling <br />
+    - The use of Graphic User Interface (GUI) and Google colab <br />
 7. 3:00 p.m. - 3:20 p.m. <br />
-  - Break <br />
+    - Break <br />
 8. 3:20 p.m. - 4:30 p.m. <br />
-  - **Open work session** <br />
-    - Try creating a DLC project with your own videos (or demo videos) and label them <br />
-    - Explore GUI and Google colab <br />
+    - **Open work session** <br />
+      - Try creating a DLC project with your own videos (or demo videos) and label them <br />
+      - Explore GUI and Google colab <br />
 9. 4:30 p.m. - 4:40 p.m. <br />
-  - Dinner (grab-and-go) <br />
+    - Dinner (grab-and-go) <br />
 <br />
 <br />
 
@@ -66,10 +66,10 @@ This two-day workshop will take place on **Wednesday, July 30, 2025**, and **Fri
     - Example of post-processing in DLC <br />
     - Example of other applications/software that could be used with DLC to improve <br />
 7. 3:00 p.m. - 3:20 p.m. <br />
-  - Break <br />
+    - Break <br />
 8. 3:20 p.m. - 4:30 p.m. <br />
-  - **Open work session** <br />
-    - Try analyzing your own videos (or demo videos) <br />
-    - Play with DLC 3D and Model Zoo <br />
+    - **Open work session** <br />
+      - Try analyzing your own videos (or demo videos) <br />
+      - Play with DLC 3D and Model Zoo <br />
 9. 4:30 p.m. - 4:40 p.m. <br />
-  - Dinner (grab-and-go) <br />
+    - Dinner (grab-and-go) <br />
