@@ -12,7 +12,7 @@ This two-day workshop will take place on **Wednesday, July 30, 2025**, and **Fri
 <br />
 
 **Program schedule:** <br />
-* Note: The open work sessions aims for participants to try running DLC and ask questions if needed. However, if you prefer to leave early to work from home or for your planned experiments, please feel free to do so. We are happy to take your questions by emails afterwards :) <br />
+* Note: The **open work sessions** aims for participants to try running DLC and ask questions if needed. However, if you prefer to leave early to work from home or for your planned experiments, please feel free to do so. We are happy to take your questions by emails afterwards :) <br />
 <br />
 <br />
 
