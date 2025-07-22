@@ -3,16 +3,18 @@
 # DeepLabCut AI Residency 2025 - Montreal hub
 The DeepLabCut AI Residency is a 2-day hands-on training workshop focused on automated behavioral analysis using cutting-edge computational tools. Our goal is to make AI-based behavioral analysis and tools accessible for researchers in the life sciences, helping to advance behavioral quantification across species.<br />
 Official website: https://www.deeplabcutairesidency.org/our-team 
-
+<br />
 
 This two-day workshop will take place on **Wednesday, July 30, 2025**, and **Friday, August 1, 2025**, at the **Montreal Neurological Institute**:<br />
 📅Dates: July 30, 2025 & August 1, 2025<br />
 📍Location: Bell room (next to de Grandpré Communications Centre), Montreal Neurological Instutite, 3801 University Street, Montreal, QC, H3A 2B4
+<br />
+<br />
 
-
-Program schedule:<br />
+```diff
+-**Program schedule:**<br />
 * Note: The open work sessions aims for participants to try running DLC and ask questions if needed. However, if you prefer to leave early to work from home or for your planned experiments, please feel free to do so. We are happy to take your questions by emails afterwards :) <br />
-
+<br />
 **Day 1 (July 30, 2025)** <br />
 1. 10:00 a.m. - 10:15 a.m.<br />
   - Introduction to the workshop and schedule<br />
