@@ -30,7 +30,7 @@ This two-day workshop will take place on **Wednesday, July 30, 2025**, and **Fri
       - Try install DeepLabCut on your own device<br />
       - Q&A if needed<br />
 5. 12:00 p.m. - 1:30 p.m. <br />
-    - Lunch break <br />
+    - Lunch break (networking) <br />
 6. 1:30 p.m. - 3:00 p.m. <br />
     - Project creation <br />
     - Labeling <br />
@@ -42,7 +42,7 @@ This two-day workshop will take place on **Wednesday, July 30, 2025**, and **Fri
       - Try creating a DLC project with your own videos (or demo videos) and label them <br />
       - Explore GUI and Google colab <br />
 9. 4:30 p.m. - 4:40 p.m. <br />
-    - Dinner (grab-and-go/networking) <br />
+    - Dinner (grab-and-go) <br />
 <br />
 <br />
 
@@ -58,7 +58,7 @@ This two-day workshop will take place on **Wednesday, July 30, 2025**, and **Fri
       - e.g. Trajectory visualization and filtering <br />
       - Tracklet refinement (multi-animal projects) <br />
 5. 12:00 p.m. - 1:30 p.m. <br />
-    - Lunch break <br />
+    - Lunch break (networking) <br />
 6. 1:30 p.m. - 3:00 p.m. <br />
     - DeepLabCut 3D <br />
     - Model Zoo <br />
@@ -71,4 +71,4 @@ This two-day workshop will take place on **Wednesday, July 30, 2025**, and **Fri
       - Try analyzing your own videos (or demo videos) <br />
       - Play with DLC 3D and Model Zoo <br />
 9. 4:30 p.m. - 4:40 p.m. <br />
-    - Dinner (grab-and-go/networking) <br />
+    - Dinner (grab-and-go) <br />
