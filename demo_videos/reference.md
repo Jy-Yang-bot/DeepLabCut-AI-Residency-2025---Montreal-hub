@@ -6,6 +6,7 @@ Bonnetto, A., Qi, H., Leong, F., Tashkovska, M., Rad, M., Shokur, S., Hummel, F.
 
 
 <br />
+
 **Mouse video demo:** <br />
 https://github.com/DeepLabCut/DeepLabCut/tree/main/examples/COLAB <br />
 Mathis, A., Mamidanna, P., Cury, K.M. et al. DeepLabCut: markerless pose estimation of user-defined body parts with deep learning. Nat Neurosci 21, 1281–1289 (2018). https://doi.org/10.1038/s41593-018-0209-y. <br />
@@ -14,6 +15,7 @@ Lauer, J., Zhou, M., Ye, S. et al. Multi-animal pose estimation, identification 
 Ye, S., Filippova, A., Lauer, J. et al. SuperAnimal pretrained pose estimation models for behavioral analysis. Nat Commun 15, 5165 (2024). https://doi.org/10.1038/s41467-024-48792-2. <br />
 
 <br />
+
 **Other animal video datasets:** <br />
 example: fox, raven, gorilla, etc.<br />
 NESTLER: oNe hEalth SusTainabiLity partnership between EU-AFRICA for food sEcuRity. (2025). NESTLER Wild Animal Recognition Video Dataset. Zenodo.<br />
